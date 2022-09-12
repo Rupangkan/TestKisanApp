@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestKisanApp</string>
+    <string name="title">Title</string>
+    <string name="description">description</string>
+</resources>
